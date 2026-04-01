@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "will",
+  "base_artist": "COPES",
+  "createdAt": "2026-04-01T10:46:46.954804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Velvet Red - Never Will: Live From A Distance",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/01_Velvet_Red_-_Never_Will__Live_From_A_Distance_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Velvet Red (Never Will: Live From A Distance)",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/02_Velvet_Red_(Never_Will__Live_From_A_Distance)_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby I Will",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/03_Baby_I_Will_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby I Will (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/04_Baby_I_Will_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Will Be Mine",
+      "artist": "Carlene Carter",
+      "has_synced": true,
+      "path": "select/05_He_Will_Be_Mine_Carlene_Carter.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "He Will Be Mine (Album Version)",
+      "artist": "Carlene Carter",
+      "has_synced": false,
+      "path": "select/06_He_Will_Be_Mine_(Album_Version)_Carlene_Carter.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Long Will My Baby Be Gone (Alternate Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/07_How_Long_Will_My_Baby_Be_Gone_(Alternate_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/08_I_Will_Always_Love_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton & Vince Gill",
+      "has_synced": true,
+      "path": "select/09_I_Will_Always_Love_You_Dolly_Parton_&_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton and Vince Gill",
+      "has_synced": true,
+      "path": "select/10_I_Will_Always_Love_You_Dolly_Parton_and_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/11_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Will Always Love You - Original Version",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/12_I_Will_Always_Love_You_-_Original_Version_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Will Always Love You (Original Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/13_I_Will_Always_Love_You_(Original_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Will Always Love You (Original Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/14_I_Will_Always_Love_You_(Original_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Will Be There",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/15_I_Will_Be_There_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If Drinkin' Don't Kill Me (Her Memory Will)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/16_If_Drinkin'_Don't_Kill_Me_(Her_Memory_Will)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If Drinkin' Don't Kill Me (Her Memory Will) (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/17_If_Drinkin'_Don't_Kill_Me_(Her_Memory_Will)_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "If You Ain't Happy Now (You Never Will Be)",
+      "artist": "Jesse Daniel",
+      "has_synced": false,
+      "path": "select/18_If_You_Ain't_Happy_Now_(You_Never_Will_Be)_Jesse_Daniel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "will",
+      "artist": "COPES",
+      "has_synced": false,
+      "path": "select/pl_01_will_COPES.txt"
+    }
+  ]
+}

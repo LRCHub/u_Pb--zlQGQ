@@ -1,0 +1,65 @@
+# COPES – will
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Don't want to go to work today.
+What am I doing? I feel stupid.
+I wish I could live by
+just doing
+what I like everday.
+1.2.3.4! 聞こえた合図で
+3.2.1 ! yeah! 空へ飛び出せ
+Walked down
+the street whistling.
+(Wow oh!)周り蹴散らして
+(Wow oh!)音の波乗っかって
+(Wow oh!)君の手繋いで
+今すぐ Let's get away!
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+面倒事忘れて
+自由自在 Fly high! yeah!
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+周りに合わせてばっかで
+つまんない日々
+感触がよくないな
+理想なんか知ったこっちゃねえ
+飛び越えろ Jump over.
+回り回る 止まらぬ時代
+巡り巡る 広く先へ
+回り回り 進む未来
+響く響き 僕の声
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+Everybody hands up!
+Let's paint the town red.
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+面倒事忘れて
+自由自在 Fly high! yeah!
+Everybody hands up!
+Let's paint the town red.
+I never mind others think.
+Just think about self.
+逃げ場の1つや2つは手配しよう
+これからの日々照らせ
+Let's have a good time.
+```
